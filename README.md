@@ -135,3 +135,9 @@ https://bdns.io/x/randomrumble.lib
 https://bdns.at/x/t411.bit
 
 For a practical application (CORS+XHR) see *blockchain-dns.info*'s own [name availability checker](https://blockchain-dns.info/explorer/).
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
